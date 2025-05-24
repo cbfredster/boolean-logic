@@ -1,4 +1,4 @@
-# Boolean Logic Coursework — SAT Solver & Tools
+# Boolean Logic Project
 
 A set of Boolean logic functions and SAT solvers built for coursework on propositional logic and satisfiability.
 
