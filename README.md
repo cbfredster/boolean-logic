@@ -1,6 +1,6 @@
 # Boolean Logic Project
 
-A set of Boolean logic functions and SAT solvers built for coursework on propositional logic and satisfiability.
+A set of Boolean logic functions and SAT solvers looking at propositional logic and satisfiability.
 
 ## Features
 
